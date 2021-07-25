@@ -1,7 +1,7 @@
 # DouZeroBid_For_HLDDZ_H5: 一个未完成的关于DouZero叫牌版的测试
 
 *   本项目基于[DouZeroBid](https://douzero.org/bid/)
-*   游戏环境是欢乐斗地主h5版(https://hlddz.huanle.qq.com),需要使用Fiddler或其他工具替换https://hlddz.huanle.qq.com/src/version/hlddz-1.5.3.0.build0.js
+*   游戏环境是[欢乐斗地主h5版](https://hlddz.huanle.qq.com),需要使用Fiddler或其他工具替换https://hlddz.huanle.qq.com/src/version/hlddz-1.5.3.0.build0.js
 *   在浏览器console里搜索 记牌器 就可以看到实时叫牌出牌胜率
 
 ## 说明
